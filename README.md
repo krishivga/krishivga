@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishivga
-- 👀 I’m interested in Backend Development, with a focus on Django.
-- 🌱 I’m currently learning Django and React.js
+- 👀 I’m interested in Fullstack Development. 
+- 🌱 I’m currently learning HTML, CSS and JS.
 - 📫 How to reach me: krishiv.agarwal@cgpworldwide.com
 - ⚡ Fun fact: ...
 
